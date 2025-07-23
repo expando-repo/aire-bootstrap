@@ -7,5 +7,5 @@
 Install via composer with:
 
 ```
-composer require glhd/aire-bootstrap
+composer require expando-repo/aire-bootstrap
 ```
